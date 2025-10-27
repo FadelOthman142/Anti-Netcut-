@@ -1,0 +1,9 @@
+{
+    "iface": "Wi-Fi",
+    "auto_remediate": false,
+    "detect_only": true,
+    "whitelist_file": "whitelist.json",
+    "queue_file": "queue.json",
+    "log_file": "antinetcut.log",
+    "doh_provider": "cloudflare"
+}
