@@ -1,4 +1,4 @@
-Here’s a **cleaned up and professional version** of your `README.md` — properly formatted in Markdown with badges, clear sections, and visually appealing structure.
+
 
 ---
 
@@ -290,6 +290,7 @@ python run_windows.py --detect-only
 python run_windows.py --iface "Wi-Fi" --detect-only
 python run_windows.py --list-queue
 ```
+
 
 
 
