@@ -66,8 +66,8 @@ requests>=2.25.1
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/anti-netcut-linux.git
-cd anti-netcut-linux
+git clone https://github.com/FadelOthman142/Anti-Netcut-
+cd Anti-Netcut-
 
 # Install dependencies
 pip install -r requirements.txt
@@ -290,6 +290,7 @@ python run_windows.py --detect-only
 python run_windows.py --iface "Wi-Fi" --detect-only
 python run_windows.py --list-queue
 ```
+
 
 
 
